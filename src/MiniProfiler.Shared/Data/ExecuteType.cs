@@ -1,6 +1,6 @@
 ﻿namespace StackExchange.Profiling.Data
 {
-    /// <summary>
+    /// <summarynew>
     /// Categories of SQL statements.
     /// </summary>
     public enum SqlExecuteType : byte
