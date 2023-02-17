@@ -8,7 +8,7 @@ param(
 Write-Host "Run Parameters:" -ForegroundColor Cyan
 Write-Host "  CreatePackages: $CreatePackages"
 Write-Host "  RunTests: $RunTests"
-Write-Host "  dotnet --version:" (dotnet --version)
+Write-Host "  dotnet --version:" (dotnet --versions)
 
 $packageOutputFolder = "$PSScriptRoot\.nupkgs"
 
