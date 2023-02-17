@@ -48,7 +48,7 @@
     Displays diagnostics information.
 .PARAMETER AzureFeed
     Default: https://dotnetcli.azureedge.net/dotnet
-    This parameter typically is not changed by the user.
+    This parameter typically is not changed by the users.
     It allows to change URL for the Azure feed used by this installer.
 .PARAMETER UncachedFeed
     This parameter typically is not changed by the user.
